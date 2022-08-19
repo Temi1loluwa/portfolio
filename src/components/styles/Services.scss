@@ -1,0 +1,15 @@
+.service{
+    min-height: 30vh;
+    position: relative;
+    padding-top: 20px;
+    font-family: Montserrat,sans-serif;
+    background-color: rgb(248, 191, 248);
+}.service_container{
+    position: relative;
+    left: 25%;
+}.service_wrapper{
+    display: flex;
+    letter-spacing: 12px;
+    font-size: 30px;
+    padding-top: 10px;
+}
